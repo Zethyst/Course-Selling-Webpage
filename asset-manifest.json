@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Course-Selling-Webpage/static/css/main.9a37df8d.css",
-    "main.js": "/Course-Selling-Webpage/static/js/main.75fdf746.js",
+    "main.css": "/Course-Selling-Webpage/static/css/main.2f8c980b.css",
+    "main.js": "/Course-Selling-Webpage/static/js/main.551319b0.js",
     "static/js/453.cc194955.chunk.js": "/Course-Selling-Webpage/static/js/453.cc194955.chunk.js",
     "static/media/certiciate.png": "/Course-Selling-Webpage/static/media/certiciate.e93550f98074cc6dc2b9.png",
+    "static/media/LEARN.png": "/Course-Selling-Webpage/static/media/LEARN.ba065fa94781b37507d9.png",
     "static/media/internship.png": "/Course-Selling-Webpage/static/media/internship.62feba597728c7715de5.png",
     "index.html": "/Course-Selling-Webpage/index.html",
-    "main.9a37df8d.css.map": "/Course-Selling-Webpage/static/css/main.9a37df8d.css.map",
-    "main.75fdf746.js.map": "/Course-Selling-Webpage/static/js/main.75fdf746.js.map",
+    "main.2f8c980b.css.map": "/Course-Selling-Webpage/static/css/main.2f8c980b.css.map",
+    "main.551319b0.js.map": "/Course-Selling-Webpage/static/js/main.551319b0.js.map",
     "453.cc194955.chunk.js.map": "/Course-Selling-Webpage/static/js/453.cc194955.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a37df8d.css",
-    "static/js/main.75fdf746.js"
+    "static/css/main.2f8c980b.css",
+    "static/js/main.551319b0.js"
   ]
 }
