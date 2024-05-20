@@ -5,7 +5,7 @@ import cloud from '../assets/XMLID_994_.png'
 import folder from '../assets/Group.png'
 function Stats() {
   return (
-    <div className='mb-20 bg-[#b73bbe1c] p-10 flex justify-center items-center gap-16'>
+    <div className='mb-20 bg-[#b73bbe1c] p-10 hidden md:flex justify-center items-center gap-16'>
         <div className='flex justify-center items-center gap-3 w-64 h-24' style={{borderRight:"2px solid #F4D6F8"}}>
             <img src={learning}  />
             <div className='flex flex-col justify-center items-start '>

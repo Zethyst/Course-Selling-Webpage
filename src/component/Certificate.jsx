@@ -5,15 +5,15 @@ import star from '../assets/award_star2.png'
 
 function Certificate() {
   return (
-    <div className=" flex flex-col justify-center items-center gap-7">
-      <p className="text-5xl text-center w-full font-bold text-[#595961] leading-[4rem]">
+    <div className=" p-4 flex flex-col justify-center items-center gap-7">
+      <p className="text-4xl md:text-5xl md:text-center w-[85%] md:w-full font-bold text-[#595961] leading-[4rem]">
         Unlock <span className="text-[#992E9D]">6 Certificates </span> &{" "}
         <span className="text-[#992E9D]">Internship Opportunities! </span>{" "}
       </p>
-      <div className="flex gap-6">
+      <div className="flex flex-col md:flex-row gap-6">
 
       <div className="flex justify-center items-center gap-4">
-        <div className="flex flex-col justify-center items-center bg-[#FCF5FE] p-10 rounded-3xl w-[600px]">
+        <div className="flex flex-col justify-center items-center bg-[#FCF5FE] p-10 rounded-3xl w-[90%] md:w-[600px]">
           <p className="w-96 text-center text-[#450D45] text-2xl font-semibold">
             Get 6 Industry Recognized Certificates!
           </p>
@@ -25,7 +25,7 @@ function Certificate() {
         </div>
       </div>
       <div className="flex justify-center items-center gap-4">
-        <div className="flex flex-col justify-center items-center bg-[#FFFCEA] p-9 rounded-3xl w-[600px]">
+        <div className="flex flex-col justify-center items-center bg-[#FFFCEA] p-9 rounded-3xl w-[90%] md:w-[600px]">
           <p className="w-96 self-start text-[#481900] text-2xl font-semibold">
           Bag Internship Opportunities!
           </p>

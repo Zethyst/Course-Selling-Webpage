@@ -80,6 +80,19 @@
   font-size: 40px;
   font-weight: 700;
 }
+.gradient3{
+  background: linear-gradient(180deg, #B872D0 0%, #372FAA 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.borderClass{
+  border: 1px solid;
+border: linear-gradient(90.24deg, rgba(63, 55, 201, 0.74) -11.5%, rgba(177, 66, 64, 0.53) 169.22%);
+}
+.gradient4{
+  background: linear-gradient(86.45deg, rgba(128, 0, 128, 0.0951653) -133.64%, rgba(128, 0, 128, 0.0756279) -63.21%, rgba(128, 0, 128, 0.0756279) -63.21%, rgba(128, 0, 128, 0.0756279) -63.19%, rgba(128, 0, 128, 0.0712419) -47.37%, rgba(128, 0, 128, 0.0592802) -4.24%, rgba(128, 0, 128, 0.0485147) 34.58%, rgba(128, 0, 128, 0.0210105) 41.77%, rgba(128, 0, 128, 0.012475) 79.16%, rgba(128, 0, 128, 0) 89.22%, rgba(128, 0, 128, 0) 105.04%, rgba(128, 0, 128, 0) 122.29%, rgba(128, 0, 128, 0) 130.92%, rgba(128, 0, 128, 0) 130.92%, rgba(128, 0, 128, 0) 130.95%);
+
+}
 
 .progress::after{
   position: absolute;
@@ -106,4 +119,27 @@
   right: -10px;
   width: 450%;
   height: 3px;
+}
+.circle {
+  position: relative;
+  z-index: 10;
+}
+
+.line1 {
+  position: absolute;
+  z-index: -10;
+  width: 260px;
+  height: 1px;
+  background-color: gray;
+  bottom: -50px;
+  transform: rotate(38deg);
+}
+.line-vertical{
+  position: absolute;
+  z-index: -10;
+  width: 260px;
+  height: 1px;
+  background-color: gray;
+  bottom: -50px;
+  transform: rotate(38deg);
 }
